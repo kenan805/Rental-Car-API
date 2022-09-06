@@ -10,3 +10,6 @@ C:\Users\user\source\repos\RentACarProject\Entities\obj\Debug\net5.0\Entities.dl
 C:\Users\user\source\repos\RentACarProject\Entities\obj\Debug\net5.0\refint\Entities.dll
 C:\Users\user\source\repos\RentACarProject\Entities\obj\Debug\net5.0\Entities.pdb
 C:\Users\user\source\repos\RentACarProject\Entities\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\user\source\repos\RentACarProject\Entities\bin\Debug\net5.0\Core.dll
+C:\Users\user\source\repos\RentACarProject\Entities\bin\Debug\net5.0\Core.pdb
+C:\Users\user\source\repos\RentACarProject\Entities\obj\Debug\net5.0\Entities.csproj.CopyComplete

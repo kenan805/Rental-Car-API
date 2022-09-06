@@ -13,3 +13,5 @@ C:\Users\user\source\repos\RentACarProject\DataAccess\obj\Debug\net5.0\DataAcces
 C:\Users\user\source\repos\RentACarProject\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
 C:\Users\user\source\repos\RentACarProject\DataAccess\obj\Debug\net5.0\DataAccess.pdb
 C:\Users\user\source\repos\RentACarProject\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\user\source\repos\RentACarProject\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\user\source\repos\RentACarProject\DataAccess\bin\Debug\net5.0\Core.pdb

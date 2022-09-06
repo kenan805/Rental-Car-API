@@ -15,3 +15,5 @@ C:\Users\user\source\repos\RentACarProject\Business\obj\Debug\net5.0\Business.dl
 C:\Users\user\source\repos\RentACarProject\Business\obj\Debug\net5.0\refint\Business.dll
 C:\Users\user\source\repos\RentACarProject\Business\obj\Debug\net5.0\Business.pdb
 C:\Users\user\source\repos\RentACarProject\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\user\source\repos\RentACarProject\Business\bin\Debug\net5.0\Core.dll
+C:\Users\user\source\repos\RentACarProject\Business\bin\Debug\net5.0\Core.pdb
