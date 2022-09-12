@@ -1,5 +1,8 @@
 ﻿using Business.Abstract;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 using Entities.Concrete;
+using FluentValidation;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -41,6 +44,7 @@ namespace WebAPI.Controllers
         [HttpPost("add")]
         public IActionResult Add(Car car)
         {
+
             var result = _carService.Add(car);
             if (result.Success)
             {

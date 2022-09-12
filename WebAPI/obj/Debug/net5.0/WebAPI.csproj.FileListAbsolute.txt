@@ -64,3 +64,9 @@ C:\Users\user\source\repos\RentACarProject\WebAPI\obj\Debug\net5.0\refint\WebAPI
 C:\Users\user\source\repos\RentACarProject\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\user\source\repos\RentACarProject\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
 C:\Users\user\source\repos\RentACarProject\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\user\source\repos\RentACarProject\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\user\source\repos\RentACarProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\RentACarProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\RentACarProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\user\source\repos\RentACarProject\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\user\source\repos\RentACarProject\WebAPI\bin\Debug\net5.0\Castle.Core.dll
