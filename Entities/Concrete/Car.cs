@@ -17,5 +17,6 @@ namespace Entities.Concrete
         public string Description { get; set; }
         public Brand Brand { get; set; }
         public Color Color { get; set; }
+        public List<CarImage> CarImages { get; set; }
     }
 }
