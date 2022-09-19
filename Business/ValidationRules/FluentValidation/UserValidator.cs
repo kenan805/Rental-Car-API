@@ -1,4 +1,6 @@
-﻿using Entities.Concrete;
+﻿using Core.Entities.Conrete;
+using Entities.Concrete;
+using Entities.DTOs;
 using FluentValidation;
 using System;
 using System.Collections.Generic;
@@ -9,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Business.ValidationRules.FluentValidation
 {
-    public class UserValidator : AbstractValidator<User>
+    public class UserValidator : AbstractValidator<UserForRegisterDto>
     {
         public UserValidator()
         {
@@ -21,9 +23,9 @@ namespace Business.ValidationRules.FluentValidation
             RuleFor(u => u.FirstName).MinimumLength(2);
             RuleFor(u => u.LastName).MinimumLength(2);
             RuleFor(u => u.Password).MinimumLength(8);
-            RuleFor(u => u.Password).Must(AtLeastOneUppercase);
-            RuleFor(u => u.Password).Must(AtLeastOneLowercase);
-            RuleFor(u => u.Password).Must(AtLeastOneDigit);
+            RuleFor(u => u.Password).Must(AtLeastOneUppercase).WithMessage("Azi bir boyuk herf olmalidir");
+            RuleFor(u => u.Password).Must(AtLeastOneLowercase).WithMessage("Azi bir kicik herf olmalidir"); ;
+            RuleFor(u => u.Password).Must(AtLeastOneDigit).WithMessage("Azi bir reqem olmalidir"); ;
 
         }
 

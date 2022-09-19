@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -37,6 +38,13 @@ namespace Business.Constants
         public static string CarImageDeleted = "Car image deleted";
         public static string CarImageUpdated = "Car image updated";
         public static string CarImageLimitExceded = "The number of car images cannot exceed 5.";
-        public static string CarImageListed="Car image listed";
+        public static string CarImageListed = "Car image listed";
+        public static string AuthorizationDenied = "You don't have authorized ";
+        public static string UserRegistered = "User registered";
+        public static string UserNotFound = "User not found";
+        public static string PasswordError = "Password error";
+        public static string SuccessfulLogin = "Successful login";
+        public static string UserAlreadyExists = "User already exists";
+        public static string AccessTokenCreated = "Access token created";
     }
 }

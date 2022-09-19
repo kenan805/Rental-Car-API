@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Core.Utilities.Helpers
 {
-    public class FileHelperManager : IFileHelper
+    public class FileHelper : IFileHelper
     {
         public string Add(IFormFile file, string root)
         {
