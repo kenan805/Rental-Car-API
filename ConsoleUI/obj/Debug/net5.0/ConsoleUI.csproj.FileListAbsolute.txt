@@ -104,3 +104,7 @@ C:\Users\user\source\repos\RentACarProject\ConsoleUI\bin\Debug\net5.0\Microsoft.
 C:\Users\user\source\repos\RentACarProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
 C:\Users\user\source\repos\RentACarProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Abstractions.dll
 C:\Users\user\source\repos\RentACarProject\ConsoleUI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\source\repos\RentACarProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.Http.dll
+C:\Users\user\source\repos\RentACarProject\ConsoleUI\bin\Debug\net5.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\user\source\repos\RentACarProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\user\source\repos\RentACarProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Net.Http.Headers.dll
