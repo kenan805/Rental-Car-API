@@ -3,6 +3,7 @@ using Entities.Concrete;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Drawing;
+using System.Threading;
 using Color = Entities.Concrete.Color;
 
 namespace WebAPI.Controllers
@@ -21,6 +22,7 @@ namespace WebAPI.Controllers
         [HttpGet("getall")]
         public IActionResult GetAll()
         {
+            Thread.Sleep(1000);
             var result = _colorService.GetAll();
             if (result.Success)
             {
